@@ -13,8 +13,3 @@ private String modulesReg;
         return name+age;
     }
 }
-
-//Name, Age, DOB,
-//ID, username, courses and modules registered
-//(getUsername()) will generate the Student’s username by concatenating
-//their name and age.
