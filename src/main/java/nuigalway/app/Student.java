@@ -1,3 +1,5 @@
+package nuigalway.app;
+
 import java.util.ArrayList;
 
 public class Student {
@@ -7,7 +9,7 @@ private String DOB;
 private ArrayList<String> courses = new ArrayList<String>();
 private ArrayList<String> modulesReg = new ArrayList<String>();
 
-    public Student(String name, int age, String DOB,ArrayList<String> courses,ArrayList<String> modulesReg){
+    public Student(String name, int age, String DOB){
 
     }
 
