@@ -10,6 +10,12 @@ public class Module {
     private ArrayList<CourseProgramme> coursesAss = new ArrayList<CourseProgramme>();
 
     public Module(String modName, String modID, ArrayList<Student> students){
+        this.modName=modName;
+        this.modID=modID;
+        this.students=students;
+    }
 
+    public ArrayList<Student> getStudents(){
+        return students;
     }
 }

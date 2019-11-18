@@ -4,9 +4,10 @@
     <list default="true" id="c6617fc4-a2ea-4b52-9159-1b2e935ccefe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nuigalway/app/CourseProgramme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nuigalway/app/CourseProgramme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nuigalway/app/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nuigalway/app/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nuigalway/app/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nuigalway/app/Module.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/nuigalway/app/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nuigalway/app/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/nuigalway/app/CourseProgramme.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nuigalway/app/CourseProgramme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nuigalway/app/Module.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nuigalway/app/Module.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/nuigalway/app/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/nuigalway/app/AppTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
