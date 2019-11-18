@@ -2,7 +2,6 @@ package nuigalway.app;
 
 import org.joda.time.DateTime;
 import org.joda.time.DateTimeUtils;
-import sun.plugin.dom.core.CoreConstants;
 
 import java.util.ArrayList;
 public class CourseProgramme {

@@ -10,10 +10,13 @@ private ArrayList<String> courses = new ArrayList<String>();
 private ArrayList<String> modulesReg = new ArrayList<String>();
 
     public Student(String name, int age, String DOB){
-
+        this.name=name;
+        this.age=age;
+        this.DOB=DOB;
     }
 
     public String getUsername(){
-        return name+age;
+        String nameAge = name + age;
+        return nameAge;
     }
 }
